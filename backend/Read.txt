@@ -1,0 +1,18 @@
+Dependencies needed-
+bcrypt
+cors
+dotenv
+express
+mongoose
+nodemon
+validator
+
+Server-
+connection of mongo db
+Route from routes
+
+Routes-
+controller
+
+controller-
+models(Schema)
